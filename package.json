@@ -12,5 +12,8 @@
     "react": "latest",
     "react-dom": "latest",
     "next": "latest"
+  },
+  "devDependencies": {
+    "swr": "^2.2.4"
   }
 }
