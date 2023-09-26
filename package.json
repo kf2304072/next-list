@@ -9,11 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
-  },
-  "devDependencies": {
+    "react": "17.0.2",  
+    "react-dom": "17.0.2",
+    "next": "11.1.2",
     "swr": "^2.2.4"
-  }
+  },
+  "devDependencies": {}
 }
