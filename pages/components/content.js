@@ -5,7 +5,7 @@ export default function Content({children}) {
                 {children}
             </div>
             <hr />
-            <footer>© 2023 ともすた</footer>
+            <footer>© 2023 ともすたぁ</footer>
         
         </>
     )
